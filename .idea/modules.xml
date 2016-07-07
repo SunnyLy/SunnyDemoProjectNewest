@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SunnyDemo/SunnyDemo.iml" filepath="$PROJECT_DIR$/SunnyDemo/SunnyDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SunnyDemoProject.iml" filepath="$PROJECT_DIR$/SunnyDemoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SunnyDemoProjectNewest.iml" filepath="$PROJECT_DIR$/SunnyDemoProjectNewest.iml" />
     </modules>
   </component>
 </project>
