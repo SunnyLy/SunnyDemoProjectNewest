@@ -4,14 +4,8 @@ import android.app.Activity;
 import android.app.DatePickerDialog;
 import android.content.Context;
 import android.content.Intent;
-import android.content.UriMatcher;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.os.Handler;
-import android.os.Looper;
-import android.text.Spannable;
-import android.text.SpannableString;
-import android.text.style.ImageSpan;
 import android.view.View;
 import android.widget.DatePicker;
 import android.widget.EditText;
@@ -23,9 +17,7 @@ import android.widget.ViewSwitcher;
 
 import com.smartbracelet.sunny.sunnydemo2.R;
 
-import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.List;
 import java.util.Locale;
 
 import sunnydemo2.ad.ui.CarouselADActivity;
@@ -131,11 +123,16 @@ public class MainActivity extends Activity implements ViewSwitcher.ViewFactory {
         mNumberMonth = (NumberPicker) findViewById(R.id.number_picker_month);
         mNumberDay = (NumberPicker) findViewById(R.id.number_picker_day);
 
+        try{
+
         mPickerYear = (sunnydemo2.widget.NumberPicker) findViewById(R.id.sunny_picker_year);
         mPickerYear.setUnSelectedTextColor(Color.RED);//改变未选中字体颜色
         mPickerMonth = (sunnydemo2.widget.NumberPicker) findViewById(R.id.sunny_picker_month);
         mPickerDay = (sunnydemo2.widget.NumberPicker) findViewById(R.id.sunny_picker_day);
 
+        }catch (Exception e){
+            e.printStackTrace();
+        }
         mEditTextYear = (EditText) mPickerYear.findViewById(R.id.np__numberpicker_input);
         mEidtTextMonth = (EditText) mPickerMonth.findViewById(R.id.np__numberpicker_input);
         mEditTextDay = (EditText) mPickerDay.findViewById(R.id.np__numberpicker_input);
@@ -348,11 +345,13 @@ public class MainActivity extends Activity implements ViewSwitcher.ViewFactory {
 
 
     public void onSure(View view) {
+        if(mEditTextYear != null && mEditTextDay != null && mEidtTextMonth != null){
+            String year = mEditTextYear.getText().toString();
+            String month = mEidtTextMonth.getText().toString();
+            String day = mEditTextDay.getText().toString();
+            Toast.makeText(MainActivity.this, year + "-" + month + "-" + day, Toast.LENGTH_SHORT).show();
+        }
 
-        String year = mEditTextYear.getText().toString();
-        String month = mEidtTextMonth.getText().toString();
-        String day = mEditTextDay.getText().toString();
-        Toast.makeText(MainActivity.this, year + "-" + month + "-" + day, Toast.LENGTH_SHORT).show();
     }
 
     @Override

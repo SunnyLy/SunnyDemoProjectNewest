@@ -19,7 +19,7 @@
 
 <merge xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <ImageButton android:id="@+id/np_increment"
+    <ImageButton android:id="@+id/np_increments"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/numberpicker_up_btn"
@@ -28,7 +28,7 @@
         android:contentDescription="@string/number_picker_increment_button" />
 
     <EditText
-        android:id="@+id/np__numberpicker_input"
+        android:id="@+id/np__numberpicker_inputs"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="@style/TextAppearance.Large.Inverse.NumberPickerInputText"
@@ -36,7 +36,7 @@
         android:singleLine="true"
         android:background="@drawable/numberpicker_input" />
 
-    <ImageButton android:id="@+id/np_decrement"
+    <ImageButton android:id="@+id/np__decrements"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/numberpicker_down_btn"
