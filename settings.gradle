@@ -1,1 +1,1 @@
-include ':SunnyDemo'
+include ':SunnyDemo', ':android-app-appcompat-v7'

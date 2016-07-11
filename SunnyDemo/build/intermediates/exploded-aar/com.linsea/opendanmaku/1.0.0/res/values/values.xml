@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DanmakuView"><attr format="integer" name="max_row"/><attr format="integer" name="pick_interval"/><attr format="integer" name="max_running_per_row"/><attr format="boolean" name="show_debug"/><attr format="float" name="start_Y_offset"/><attr format="float" name="end_Y_offset"/></declare-styleable>
+</resources>

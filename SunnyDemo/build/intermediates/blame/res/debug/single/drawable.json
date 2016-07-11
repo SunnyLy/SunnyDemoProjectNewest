@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rect_angle_white.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\shape_rect_angle_white.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\number_bg.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\number_bg.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\numberpicker_up_btn.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\numberpicker_up_btn.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\clife_loading_animation.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\clife_loading_animation.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\action_btn.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\action_btn.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\clife_loading_0.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\clife_loading_0.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_share_item_bg_color_selector.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\exploded-aar\\com.android.common\\ShareSDK\\1.2.12-SNAPSHOT\\res\\drawable\\common_share_item_bg_color_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_share_bg_color_selector.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\exploded-aar\\com.android.common\\ShareSDK\\1.2.12-SNAPSHOT\\res\\drawable\\common_share_bg_color_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_share_toast.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\exploded-aar\\com.android.common\\ShareSDK\\1.2.12-SNAPSHOT\\res\\drawable\\common_share_toast.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_diliver.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\item_diliver.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\rippledrawable.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\rippledrawable.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\numberpicker_input.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\numberpicker_input.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\clife_loading_1.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\clife_loading_1.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\numberpicker_down_btn.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable\\numberpicker_down_btn.xml"
+    }
+]

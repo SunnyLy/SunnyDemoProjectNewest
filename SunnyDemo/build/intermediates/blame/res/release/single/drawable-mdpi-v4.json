@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_share_ic_launcher.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\exploded-aar\\com.android.common\\ShareSDK\\1.2.12-SNAPSHOT\\res\\drawable-mdpi-v4\\common_share_ic_launcher.png"
+    }
+]

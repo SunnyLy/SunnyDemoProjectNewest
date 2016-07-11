@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_selected.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\btn_selected.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\takephoto.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\takephoto.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pager2.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\pager2.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_down_disabled.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_down_disabled.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_down_selected.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_down_selected.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\default_check.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\default_check.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\p2.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\p2.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_up_disabled_focused.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_up_disabled_focused.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pager5.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\pager5.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_back.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\btn_back.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\asy.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\asy.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\asv.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\asv.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_input_selected.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_input_selected.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\default_error.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\default_error.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_up_pressed.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_up_pressed.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_down_normal.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_down_normal.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_down_disabled_focused.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_down_disabled_focused.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\default_check_s.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\default_check_s.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\p6.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\p6.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\p3.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\p3.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_input_disabled.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_input_disabled.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\open_service_tips.jpg",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\open_service_tips.jpg"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\p1.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\p1.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\p4.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\p4.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pager4.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\pager4.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_up_disabled.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_up_disabled.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_input_pressed.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_input_pressed.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_up_normal.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_up_normal.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_unselected.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\btn_unselected.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_menu_back.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\selector_indicator.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\selector_indicator.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\p5.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\p5.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pager3.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\pager3.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_input_normal.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_input_normal.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_up_selected.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_up_selected.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\text_indicator.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\text_indicator.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\numberpicker_down_pressed.9.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xxhdpi\\numberpicker_down_pressed.9.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_share_ic_launcher.png",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\exploded-aar\\com.android.common\\ShareSDK\\1.2.12-SNAPSHOT\\res\\drawable-xxhdpi-v4\\common_share_ic_launcher.png"
+    }
+]

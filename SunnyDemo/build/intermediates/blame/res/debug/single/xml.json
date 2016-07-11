@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\xml\\main.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\xml\\main.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\xml\\grab_redpacket_service_config.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\xml\\grab_redpacket_service_config.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\xml\\test_preference.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\xml\\test_preference.xml"
+    }
+]

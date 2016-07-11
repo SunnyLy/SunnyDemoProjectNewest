@@ -1,0 +1,1645 @@
+[
+    {
+        "outputFile": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 90,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 102,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 102,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 102,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 102,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 104,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 104,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 106,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 106,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 108,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 108,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 108,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 108,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 108,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 108,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 108,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 108,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 108,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 108,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1109,
+                    "endColumn": 106,
+                    "endOffset": 1211
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 106,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1216,
+                    "endColumn": 102,
+                    "endOffset": 1314
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 102,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1319,
+                    "endColumn": 118,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 118,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1588
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1593,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1743
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1748,
+                    "endColumn": 104,
+                    "endOffset": 1848
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 104,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1853,
+                    "endColumn": 120,
+                    "endOffset": 1969
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 120,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1974,
+                    "endColumn": 100,
+                    "endOffset": 2070
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 100,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2075,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 2217
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2222,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2358
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2363,
+                    "endColumn": 102,
+                    "endOffset": 2461
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 102,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2466,
+                    "endColumn": 118,
+                    "endOffset": 2580
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endColumn": 118,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2585,
+                    "endColumn": 106,
+                    "endOffset": 2687
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2585,
+                        "endColumn": 106,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2692,
+                    "endColumn": 102,
+                    "endOffset": 2790
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 102,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2795,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2937
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2942,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 3092
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2942,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3097,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 3263
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3097,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3268,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3412
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3268,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3417,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3577
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3417,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3582,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3734
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3582,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3739,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3885
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3739,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 3885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3890,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 4034
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3890,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4039,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4039,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endColumn": 111,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4188,
+                        "endColumn": 111,
+                        "endOffset": 4295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endColumn": 146,
+                    "endOffset": 4442
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4300,
+                        "endColumn": 146,
+                        "endOffset": 4442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4447,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 4595
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4447,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4600,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4742
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4600,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4747,
+                    "endColumn": 74,
+                    "endOffset": 4817
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4747,
+                        "endColumn": 74,
+                        "endOffset": 4817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4822,
+                    "endColumn": 88,
+                    "endOffset": 4906
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4822,
+                        "endColumn": 88,
+                        "endOffset": 4906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4911,
+                    "endColumn": 86,
+                    "endOffset": 4993
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4911,
+                        "endColumn": 86,
+                        "endOffset": 4993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4998,
+                    "endColumn": 100,
+                    "endOffset": 5094
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4998,
+                        "endColumn": 100,
+                        "endOffset": 5094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5099,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 8497
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5099,
+                        "endLine": 105,
+                        "endColumn": 12,
+                        "endOffset": 8497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8502,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 8683
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 8502,
+                        "endLine": 108,
+                        "endColumn": 12,
+                        "endOffset": 8683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8688,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 12098
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 8688,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 12098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 12103,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 12296
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12103,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 12296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 12301,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 12419
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12301,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 12419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 12424,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 12542
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12424,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 12547,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 12655
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12547,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12660,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 12838
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12660,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 12843,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 12969
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12843,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 12974,
+                    "endColumn": 116,
+                    "endOffset": 13086
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 12974,
+                        "endColumn": 116,
+                        "endOffset": 13086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 13091,
+                    "endColumn": 88,
+                    "endOffset": 13175
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 13091,
+                        "endColumn": 88,
+                        "endOffset": 13175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 13180,
+                    "endColumn": 110,
+                    "endOffset": 13286
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 13180,
+                        "endColumn": 110,
+                        "endOffset": 13286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13291,
+                    "endColumn": 126,
+                    "endOffset": 13413
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13291,
+                        "endColumn": 126,
+                        "endOffset": 13413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13418,
+                    "endColumn": 100,
+                    "endOffset": 13514
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13418,
+                        "endColumn": 100,
+                        "endOffset": 13514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13519,
+                    "endColumn": 94,
+                    "endOffset": 13609
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 13519,
+                        "endColumn": 94,
+                        "endOffset": 13609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13614,
+                    "endColumn": 122,
+                    "endOffset": 13732
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 13614,
+                        "endColumn": 122,
+                        "endOffset": 13732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13737,
+                    "endColumn": 128,
+                    "endOffset": 13861
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 13737,
+                        "endColumn": 128,
+                        "endOffset": 13861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13866,
+                    "endColumn": 116,
+                    "endOffset": 13978
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13866,
+                        "endColumn": 116,
+                        "endOffset": 13978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13983,
+                    "endLine": 181,
+                    "endColumn": 12,
+                    "endOffset": 14113
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13983,
+                        "endLine": 181,
+                        "endColumn": 12,
+                        "endOffset": 14113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 14118,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 14256
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 14118,
+                        "endLine": 183,
+                        "endColumn": 12,
+                        "endOffset": 14256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 14261,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 14391
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14261,
+                        "endLine": 185,
+                        "endColumn": 12,
+                        "endOffset": 14391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14396,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 14510
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 14396,
+                        "endLine": 187,
+                        "endColumn": 12,
+                        "endOffset": 14510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14515,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 14711
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14515,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14716,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 14830
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14716,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14835,
+                    "endColumn": 92,
+                    "endOffset": 14923
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14835,
+                        "endColumn": 92,
+                        "endOffset": 14923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 14928,
+                    "endColumn": 110,
+                    "endOffset": 15034
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 14928,
+                        "endColumn": 110,
+                        "endOffset": 15034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 15039,
+                    "endColumn": 55,
+                    "endOffset": 15090
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15039,
+                        "endColumn": 55,
+                        "endOffset": 15090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 15095,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 15197
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 15095,
+                        "endLine": 198,
+                        "endColumn": 12,
+                        "endOffset": 15197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 15202,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 15392
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 15202,
+                        "endLine": 202,
+                        "endColumn": 12,
+                        "endOffset": 15392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15397,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 15503
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15397,
+                        "endLine": 204,
+                        "endColumn": 12,
+                        "endOffset": 15503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 15508,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 15636
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 15508,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 15636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15641,
+                    "endColumn": 94,
+                    "endOffset": 15731
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15641,
+                        "endColumn": 94,
+                        "endOffset": 15731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15736,
+                    "endColumn": 90,
+                    "endOffset": 15822
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 15736,
+                        "endColumn": 90,
+                        "endOffset": 15822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 15827,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 16131
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 15827,
+                        "endLine": 213,
+                        "endColumn": 12,
+                        "endOffset": 16131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 16136,
+                    "endColumn": 112,
+                    "endOffset": 16244
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 16136,
+                        "endColumn": 112,
+                        "endOffset": 16244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16249,
+                    "endColumn": 116,
+                    "endOffset": 16361
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16249,
+                        "endColumn": 116,
+                        "endOffset": 16361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 16366,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 16500
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16366,
+                        "endLine": 217,
+                        "endColumn": 12,
+                        "endOffset": 16500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16505,
+                    "endLine": 224,
+                    "endColumn": 12,
+                    "endOffset": 16853
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16505,
+                        "endLine": 224,
+                        "endColumn": 12,
+                        "endOffset": 16853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16858,
+                    "endLine": 231,
+                    "endColumn": 12,
+                    "endOffset": 17218
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 16858,
+                        "endLine": 231,
+                        "endColumn": 12,
+                        "endOffset": 17218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 17223,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 17903
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 17223,
+                        "endLine": 241,
+                        "endColumn": 12,
+                        "endOffset": 17903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 17908,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 18589
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 17908,
+                        "endLine": 251,
+                        "endColumn": 12,
+                        "endOffset": 18589
+                    }
+                }
+            }
+        ]
+    }
+]

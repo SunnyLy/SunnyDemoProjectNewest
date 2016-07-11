@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-kn-rIN\\values-kn-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 117,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 111,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 111,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 112,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 112,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 87,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 87,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 106,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 106,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 126,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 126,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 115,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 115,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 110,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 110,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 947,
+                    "endColumn": 98,
+                    "endOffset": 1041
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 98,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1046,
+                    "endColumn": 112,
+                    "endOffset": 1154
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 112,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1159,
+                    "endColumn": 103,
+                    "endOffset": 1258
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 103,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1263,
+                    "endColumn": 113,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 113,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 125,
+                    "endOffset": 1498
+                },
+                "from": {
+                    "file": "E:\\studio_workspace\\SunnyDemoProjectNewest\\android-app-appcompat-v7\\build\\intermediates\\bundles\\debug\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 125,
+                        "endOffset": 1498
+                    }
+                }
+            }
+        ]
+    }
+]

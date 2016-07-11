@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\exploded-aar\\com.android.common\\ShareSDK\\1.2.12-SNAPSHOT\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\menu\\menu_main.xml"
+    }
+]

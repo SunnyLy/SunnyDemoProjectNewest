@@ -3,9 +3,11 @@ package sunnydemo2;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.PopupWindow;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
 
@@ -42,6 +44,8 @@ public class StartActivity extends Activity implements AdapterView.OnItemClickLi
     private List<Map<String, String>> mDatas = new ArrayList<>();
     private String[] mFrom;
     private int[] mTo;
+
+    private View mPopupView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -126,6 +130,17 @@ public class StartActivity extends Activity implements AdapterView.OnItemClickLi
                // GrabRedpacketActivity.startGrabRedpacketActivity(this);
                 Intent targeIntent = new Intent(StartActivity.this, GrabRedpacketActivity.class);
                 startActivity(targeIntent);
+                break;
+
+            case 14:
+                //OpenGL
+                break;
+            case 15:
+                //测试PopupWindow
+                mPopupView = mListView.getChildAt(position);
+                View contentView = LayoutInflater.from(this).inflate(R.layout.acitivity_main,null);
+                PopupWindow popupWindow = new PopupWindow(contentView,200,300);
+                popupWindow.showAsDropDown(mPopupView==null?mListView:mPopupView);
                 break;
         }
 

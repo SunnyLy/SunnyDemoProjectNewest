@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.0-rc5">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.android.databinding/library/1.0-rc5/res" />
+      <root url="jar://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.android.databinding/library/1.0-rc5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/eclipse/all_adt-bundle-windows-x86_64-20140321/adt-bundle-windows-x86_64-20140321/sdk/extras/android/m2repository/com/android/databinding/library/1.0-rc5/library-1.0-rc5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

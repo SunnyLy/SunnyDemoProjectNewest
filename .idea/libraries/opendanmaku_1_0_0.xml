@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="opendanmaku-1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.linsea/opendanmaku/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.linsea/opendanmaku/1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linsea/opendanmaku/1.0.0/2544be42a9dc350d05e17ce41a59a7b9b141251a/opendanmaku-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.http.legacy-android-23">
+    <CLASSES>
+      <root url="jar://D:/eclipse/all_adt-bundle-windows-x86_64-20140321/adt-bundle-windows-x86_64-20140321/sdk/platforms/android-23/optional/org.apache.http.legacy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
