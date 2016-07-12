@@ -29,7 +29,7 @@ public final class R {
 	public static final class drawable {
 	}
 	public static final class id {
-		public static final int image = 0x7f0a0071;
+		public static final int image = 0x7f0a0072;
 	}
 	public static final class integer {
 	}

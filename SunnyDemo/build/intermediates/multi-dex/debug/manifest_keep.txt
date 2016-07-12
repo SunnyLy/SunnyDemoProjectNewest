@@ -44,6 +44,7 @@
 -keep class sunnydemo2.tts.TTSActivity { <init>(); }
 -keep class sunnydemo2.tts.RecognizerIntentActivity { <init>(); }
 -keep class sunnydemo2.mvp.presenter.LoginAtyPresenter { <init>(); }
+-keep class sunnydemo2.opengl.SunnyOpenGLActivity { <init>(); }
 -keep class sunnydemo2.plugin.GrabRedpacketActivity { <init>(); }
 -keep class sunnydemo2.plugin.GrabRedpacketService { <init>(); }
 -keep class sunnydemo2.plugin.GrabRedpacketNotificationService { <init>(); }

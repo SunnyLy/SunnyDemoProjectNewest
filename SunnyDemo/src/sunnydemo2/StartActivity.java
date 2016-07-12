@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.PopupWindow;
 import android.widget.SimpleAdapter;
@@ -28,6 +29,7 @@ import sunnydemo2.imagetext.ImageTextActivity;
 import sunnydemo2.mvp.presenter.LoginAtyPresenter;
 import sunnydemo2.network.OkHttpNetWorkActivity;
 import sunnydemo2.network.XutilsNetWorkActivity;
+import sunnydemo2.opengl.SunnyOpenGLActivity;
 import sunnydemo2.plugin.GrabRedpacketActivity;
 import sunnydemo2.rxjava.RxJavaActivity;
 import sunnydemo2.sharesdk.SunnyShareActivity;
@@ -46,6 +48,7 @@ public class StartActivity extends Activity implements AdapterView.OnItemClickLi
     private int[] mTo;
 
     private View mPopupView;
+    private PopupWindow popupWindow;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,7 +57,7 @@ public class StartActivity extends Activity implements AdapterView.OnItemClickLi
         //Crashlytics.start(this);
         setContentView(R.layout.activity_start);
         TextView start_task = (TextView) findViewById(R.id.start_task);
-        start_task.setText("StartActivity所在TaskId:"+getTaskId());
+        start_task.setText("StartActivity所在TaskId:" + getTaskId());
     }
 
     @Override
@@ -127,20 +130,28 @@ public class StartActivity extends Activity implements AdapterView.OnItemClickLi
                 break;
 
             case 13:
-               // GrabRedpacketActivity.startGrabRedpacketActivity(this);
+                // GrabRedpacketActivity.startGrabRedpacketActivity(this);
                 Intent targeIntent = new Intent(StartActivity.this, GrabRedpacketActivity.class);
                 startActivity(targeIntent);
                 break;
 
             case 14:
                 //OpenGL
+                SunnyOpenGLActivity.startSunnyOpenGLActivity(this);
                 break;
             case 15:
                 //测试PopupWindow
-                mPopupView = mListView.getChildAt(position);
-                View contentView = LayoutInflater.from(this).inflate(R.layout.acitivity_main,null);
-                PopupWindow popupWindow = new PopupWindow(contentView,200,300);
-                popupWindow.showAsDropDown(mPopupView==null?mListView:mPopupView);
+                mPopupView = mListView.getAdapter().getView(position, LayoutInflater.from(this).inflate(R.layout.listview_item, null), null);
+                View contentView = LayoutInflater.from(this).inflate(R.layout.acitivity_main, null);
+                if(popupWindow == null){
+                    popupWindow = new PopupWindow(contentView, LinearLayout.LayoutParams.MATCH_PARENT, 1000);
+                    popupWindow.setOutsideTouchable(true);
+                }
+
+                if(!popupWindow.isShowing())
+                popupWindow.showAsDropDown(mPopupView == null ? mListView : mPopupView);
+                else
+                popupWindow.dismiss();
                 break;
         }
 

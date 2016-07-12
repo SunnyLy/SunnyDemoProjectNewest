@@ -186,6 +186,10 @@
     <init>();
 }
 
+-keep class sunnydemo2.opengl.SunnyOpenGLActivity {
+    <init>();
+}
+
 -keep class sunnydemo2.plugin.GrabRedpacketActivity {
     <init>();
 }

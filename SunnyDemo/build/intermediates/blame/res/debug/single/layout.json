@@ -120,6 +120,10 @@
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_curvechart.xml"
     },
     {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_gl.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_open_gl.xml"
+    },
+    {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ble.xml",
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_ble.xml"
     },

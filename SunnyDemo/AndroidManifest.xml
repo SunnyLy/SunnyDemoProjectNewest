@@ -29,6 +29,11 @@
     <!-- -->
     <uses-permission android:name="android.permission.UPDATE_APP_OPS_STATS"/>
 
+    <!-- Tell the system this app requires OpenGL ES 2.0. -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
     <!--android:theme="@style/SampleTheme.Light"-->
     <application
         android:allowBackup="true"
@@ -122,6 +127,9 @@
 
         <!--Android MVP模式-->
         <activity android:name="sunnydemo2.mvp.presenter.LoginAtyPresenter"/>
+
+        <!--OpenGL-->
+        <activity android:name="sunnydemo2.opengl.SunnyOpenGLActivity"/>
 
         <!--抢红包插件-->
         <activity android:name="sunnydemo2.plugin.GrabRedpacketActivity"/>
