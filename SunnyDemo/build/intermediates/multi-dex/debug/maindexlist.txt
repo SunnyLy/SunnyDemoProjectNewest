@@ -301,7 +301,6 @@ com/facebook/common/media/MediaUtils.class
 android/support/v4/media/session/MediaSessionCompat$MediaSessionImplBase.class
 android/support/v4/app/FragmentTabHost.class
 com/opendanmaku/DanmakuView.class
-sunnydemo2/opengl/SunnyOpenGLActivity$1.class
 sunnydemo2/ad/MainActivity$2.class
 android/support/v4/app/FragmentState.class
 sunnydemo2/sharesdk/SunnyShareActivity$1.class
@@ -424,6 +423,7 @@ com/bumptech/glide/GenericRequestBuilder.class
 android/support/v4/app/BaseFragmentActivityDonut.class
 android/support/v4/media/MediaDescriptionCompat.class
 com/lidroid/xutils/http/client/HttpRequest.class
+sunnydemo2/opengl/GLES20TriangleRenderer.class
 com/sina/weibo/sdk/component/WeiboSdkBrowser$2.class
 com/facebook/imagepipeline/datasource/SettableDataSource.class
 android/support/v4/view/ScrollingView.class
@@ -608,7 +608,6 @@ rx/internal/operators/OperatorToMap.class
 sunnydemo2/ad/ui/newproperties/NewPropertiesActivity.class
 rx/internal/operators/OperatorSampleWithTime.class
 android/support/v4/view/PagerAdapter.class
-sunnydemo2/opengl/SunnyGLRender.class
 android/support/v7/widget/RecyclerView$RecyclerViewDataObserver.class
 sunnydemo2/plugin/GrabRedpacketActivity.class
 rx/internal/operators/OperatorDelayWithSelector.class

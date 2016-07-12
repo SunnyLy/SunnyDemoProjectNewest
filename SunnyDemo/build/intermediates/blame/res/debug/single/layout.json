@@ -24,12 +24,12 @@
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\widget_process_loading_view.xml"
     },
     {
-        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_camera.xml",
-        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\list_item_camera.xml"
-    },
-    {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\cmp_customer_actionbar.xml",
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\cmp_customer_actionbar.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_camera.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\list_item_camera.xml"
     },
     {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sunny_pulltofresh.xml",
@@ -124,12 +124,12 @@
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_open_gl.xml"
     },
     {
-        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ble.xml",
-        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_ble.xml"
-    },
-    {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_network.xml",
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_network.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ble.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_ble.xml"
     },
     {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_picture.xml",
@@ -216,12 +216,12 @@
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_divistion_circle.xml"
     },
     {
-        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
-        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_b.xml"
-    },
-    {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e.xml",
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_e.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_b.xml"
     },
     {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_palette.xml",

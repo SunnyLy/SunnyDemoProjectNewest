@@ -164,12 +164,16 @@
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_bar_graph.xml"
     },
     {
-        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_rxjava.xml",
-        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_rxjava.xml"
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_open_gl.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_open_gl.xml"
     },
     {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_curvechart.xml",
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_curvechart.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_rxjava.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\layout\\activity_rxjava.xml"
     },
     {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\layout\\activity_tint.xml",

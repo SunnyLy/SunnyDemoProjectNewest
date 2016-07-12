@@ -28,12 +28,12 @@
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\exploded-aar\\com.android.common\\ShareSDK\\1.2.12-SNAPSHOT\\res\\drawable-xhdpi-v4\\common_share_logo_sinaweibo.png"
     },
     {
-        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\item_background_holo_dark.xml",
-        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xhdpi\\item_background_holo_dark.xml"
-    },
-    {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_share_logo_qq.png",
         "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\exploded-aar\\com.android.common\\ShareSDK\\1.2.12-SNAPSHOT\\res\\drawable-xhdpi-v4\\common_share_logo_qq.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\item_background_holo_dark.xml",
+        "source": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\res\\drawable-xhdpi\\item_background_holo_dark.xml"
     },
     {
         "merged": "E:\\studio_workspace\\SunnyDemoProjectNewest\\SunnyDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\line.xml",

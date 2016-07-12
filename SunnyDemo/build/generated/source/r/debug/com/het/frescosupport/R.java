@@ -37,11 +37,11 @@ public final class R {
 		public static final int ic_launcher = 0x7f020023;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f0b0002;
+		public static final int app_name = 0x7f0c0002;
 	}
 	public static final class style {
-		public static final int AppBaseTheme = 0x7f070000;
-		public static final int AppTheme = 0x7f070003;
+		public static final int AppBaseTheme = 0x7f080000;
+		public static final int AppTheme = 0x7f080003;
 	}
 	public static final class styleable {
 		public static final int[] GenericDraweeView = { 0x7f010033, 0x7f010034, 0x7f010035, 0x7f010036, 0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a, 0x7f01003b, 0x7f01003c, 0x7f01003d, 0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010042, 0x7f010043, 0x7f010044, 0x7f010045, 0x7f010046, 0x7f010047, 0x7f010048, 0x7f010049, 0x7f01004a };

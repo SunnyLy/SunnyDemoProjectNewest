@@ -20,16 +20,16 @@ public final class R {
 	public static final class bool {
 	}
 	public static final class color {
-		public static final int abc_search_url_text_normal = 0x7f090000;
-		public static final int abc_search_url_text_pressed = 0x7f090001;
-		public static final int abc_search_url_text_selected = 0x7f090002;
+		public static final int abc_search_url_text_normal = 0x7f0a0000;
+		public static final int abc_search_url_text_pressed = 0x7f0a0001;
+		public static final int abc_search_url_text_selected = 0x7f0a0002;
 	}
 	public static final class dimen {
 	}
 	public static final class drawable {
 	}
 	public static final class id {
-		public static final int image = 0x7f0a0072;
+		public static final int image = 0x7f0b0072;
 	}
 	public static final class integer {
 	}

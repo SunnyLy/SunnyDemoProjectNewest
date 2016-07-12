@@ -311,24 +311,24 @@ public final class R {
 		public static final int share_launcher = 0x7f020054;
 	}
 	public static final class id {
-		public static final int action_settings = 0x7f0a0081;
-		public static final int cancel_share = 0x7f0a005f;
-		public static final int common_dialog_content_container = 0x7f0a0064;
+		public static final int action_settings = 0x7f0a0082;
+		public static final int cancel_share = 0x7f0a0060;
+		public static final int common_dialog_content_container = 0x7f0a0065;
 		public static final int fill = 0x7f0a0007;
-		public static final int share_flow_indicator = 0x7f0a005e;
-		public static final int share_item_drawable = 0x7f0a0062;
-		public static final int share_item_gridView = 0x7f0a0060;
-		public static final int share_item_relativelayout = 0x7f0a005c;
-		public static final int share_item_root = 0x7f0a0061;
-		public static final int share_item_title = 0x7f0a0063;
-		public static final int share_viewpager = 0x7f0a005d;
+		public static final int share_flow_indicator = 0x7f0a005f;
+		public static final int share_item_drawable = 0x7f0a0063;
+		public static final int share_item_gridView = 0x7f0a0061;
+		public static final int share_item_relativelayout = 0x7f0a005d;
+		public static final int share_item_root = 0x7f0a0062;
+		public static final int share_item_title = 0x7f0a0064;
+		public static final int share_viewpager = 0x7f0a005e;
 		public static final int stroke = 0x7f0a0008;
 	}
 	public static final class layout {
-		public static final int common_share_dialog = 0x7f030027;
-		public static final int common_share_widget_gridview = 0x7f030028;
-		public static final int common_share_widget_share_item = 0x7f030029;
-		public static final int common_vertical_dialog_layout = 0x7f03002a;
+		public static final int common_share_dialog = 0x7f030028;
+		public static final int common_share_widget_gridview = 0x7f030029;
+		public static final int common_share_widget_share_item = 0x7f03002a;
+		public static final int common_vertical_dialog_layout = 0x7f03002b;
 	}
 	public static final class menu {
 		public static final int main = 0x7f0c0000;
