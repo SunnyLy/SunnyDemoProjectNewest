@@ -108,6 +108,7 @@ class GLES20TriangleRenderer implements GLSurfaceView.Renderer {
         GLES20.glViewport(0, 0, width, height);
         float ratio = (float) width / height;
         //调用此方法计算产生透视投影矩阵
+
         Matrix.frustumM(mProjMatrix, 0, -ratio, ratio, -1, 1, 3, 7);
     }
 

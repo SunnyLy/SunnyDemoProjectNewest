@@ -59,6 +59,7 @@ public class SunnyGLSurfaceView extends GLSurfaceView {
                     dy = dy * -1;
                 }
 
+
                 mGLRender.mAngle += (dx+dy) * TOUCH_SCALE_FACTOR;
                 requestRender();
                 break;

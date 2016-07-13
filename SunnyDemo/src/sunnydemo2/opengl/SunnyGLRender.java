@@ -145,5 +145,6 @@ public class SunnyGLRender implements GLSurfaceView.Renderer {
         //开始画
         GLES20.glDrawArrays(GLES20.GL_TRIANGLES,0,3);
 
+
     }
 }

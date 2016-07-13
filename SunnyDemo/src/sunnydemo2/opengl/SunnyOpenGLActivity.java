@@ -44,6 +44,7 @@ public class SunnyOpenGLActivity extends FragmentActivity {
     }
 
     private void initView() {
+
       //  mGLSurfaceView = (SunnyGLSurfaceView) findViewById(R.id.demo_gl_surfaceview);
        // mGLSurfaceView = new SunnyGLSurfaceView(this);
         mGLSurfaceView = new GLSurfaceView(this);
