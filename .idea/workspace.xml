@@ -9,11 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa71319e-7bf0-4ec3-acbe-41a4e79fd8d9" name="Default" comment=",,,,,,,,,,,,,,,">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleRender.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleRender.java" />
-    </list>
+    <list default="true" id="fa71319e-7bf0-4ec3-acbe-41a4e79fd8d9" name="Default" comment=",,,,,,,,,,,,,,," />
     <ignored path="SunnyDemoProjectNewest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,34 +65,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SunnyCubTriangleRender.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SunnyCubTriangleRender.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleRender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.704028">
               <caret line="358" column="28" selection-start-line="358" selection-start-column="28" selection-end-line="358" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SunnyDemo/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.3314917">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25641027">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -3726,29 +3702,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleRender.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="358" column="28" selection-start-line="358" selection-start-column="28" selection-end-line="358" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.41025642">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SunnyDemo/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3314917">
+        <state vertical-scroll-proportion="0.15384616">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleRender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25641027">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
+        <state vertical-scroll-proportion="0.704028">
+          <caret line="358" column="28" selection-start-line="358" selection-start-column="28" selection-end-line="358" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
