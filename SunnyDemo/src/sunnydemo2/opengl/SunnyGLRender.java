@@ -73,6 +73,7 @@ public class SunnyGLRender implements GLSurfaceView.Renderer {
 
     /**
      * 初始化三角形的一些参数
+     * ###OpenGL中都是
      */
     private void initShapes() {
         float trianlgeCoords[] = {
@@ -82,6 +83,8 @@ public class SunnyGLRender implements GLSurfaceView.Renderer {
                 0,0.559016994f,0
         };
 
+        //allocate：C语言中的关键字，手动分配内存
+        //allocateDirect():分配新的字节缓冲区，位置从0开始
         ByteBuffer vbb = ByteBuffer.allocateDirect(trianlgeCoords.length * 4);
         vbb.order(ByteOrder.nativeOrder());
         mTriangleVB = vbb.asFloatBuffer();
@@ -138,7 +141,7 @@ public class SunnyGLRender implements GLSurfaceView.Renderer {
 
         //把Program用到OpenGL环境中
         GLES20.glUseProgram(mProgram);
-        //准备画三角形的数据
+        //准备画三角形的数据,3:代表3维，x,y,z
         GLES20.glVertexAttribPointer(maPostionHandle,3,GLES20.GL_FLOAT,false,12,mTriangleVB);
         GLES20.glEnableVertexAttribArray(maPostionHandle);
 

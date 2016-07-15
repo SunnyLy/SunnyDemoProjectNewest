@@ -98,17 +98,16 @@ class GLES20TriangleRenderer implements GLSurfaceView.Renderer {
         GLES20.glUniformMatrix4fv(muMVPMatrixHandle, 1, false, mMVPMatrix, 0);
         //最后开始画三角形，绘制的方式有三种：点，线，面
         //这里以面的方式来画
-        GLES20.glDrawArrays(GLES20.GL_TRIANGLES, 0, 3);
+        GLES20.glDrawArrays(GLES20.GL_TRIANGLE_STRIP, 0, 4);
         checkGlError("glDrawArrays");
     }
 
     public void onSurfaceChanged(GL10 glUnused, int width, int height) {
         // Ignore the passed-in GL10 interface, and use the GLES20
         // class's static methods instead.
-        GLES20.glViewport(0, 0, width, height);
+        GLES20.glViewport(0, 0, width+200, height+200);
         float ratio = (float) width / height;
         //调用此方法计算产生透视投影矩阵
-
         Matrix.frustumM(mProjMatrix, 0, -ratio, ratio, -1, 1, 3, 7);
     }
 
@@ -282,7 +281,10 @@ class GLES20TriangleRenderer implements GLSurfaceView.Renderer {
             // X, Y, Z, U, V
             -1.0f, -0.5f, 0, -0.5f, 0.0f,
             1.0f, -0.5f, 0, 1.5f, -0.0f,
-            0.0f,  1.11803399f, 0, 0.5f,  1.61803399f };
+            0.0f,  1.11803399f, 0, 0.5f,  1.61803399f,
+            2.0f, 1.11803399f,0,1.0f,1.61803399f,
+
+    };
 
     private FloatBuffer mTriangleVertices;
 

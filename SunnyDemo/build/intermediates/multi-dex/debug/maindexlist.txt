@@ -423,7 +423,6 @@ com/bumptech/glide/GenericRequestBuilder.class
 android/support/v4/app/BaseFragmentActivityDonut.class
 android/support/v4/media/MediaDescriptionCompat.class
 com/lidroid/xutils/http/client/HttpRequest.class
-sunnydemo2/opengl/GLES20TriangleRenderer.class
 com/sina/weibo/sdk/component/WeiboSdkBrowser$2.class
 com/facebook/imagepipeline/datasource/SettableDataSource.class
 android/support/v4/view/ScrollingView.class
@@ -728,6 +727,7 @@ sunnydemo2/ad/ui/activitystartmode/ActivityA.class
 com/bumptech/glide/ListPreloader.class
 rx/functions/Func2.class
 sunnydemo2/imagetext/ImageTextActivity$1.class
+sunnydemo2/opengl/cubtriangle/SunnyCubTriangleGLSurfaceView.class
 com/lidroid/xutils/view/annotation/ViewInject.class
 rx/internal/util/RxRingBuffer.class
 android/support/v4/view/ViewCompatICS.class

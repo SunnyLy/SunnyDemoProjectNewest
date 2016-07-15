@@ -349,7 +349,7 @@
     <string name="accessibility_description">这是艳国专用版抢红包插件哦~~~如果由于你的贪心，造成被封号，后果自负哦~~</string>
     <string name="action_settings">Settings</string>
     <string name="app_name">SunnyDemo2</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">5f3ec01c-7a3f-4661-8031-405fbcf5528e</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">d73eca95-4f51-4656-bb01-009eb4a0af07</string>
     <string name="hello_world">Hello world!</string>
     <string name="number_picker_decrement_button">Decrease</string>
     <string name="number_picker_increment_button">Increase</string>
