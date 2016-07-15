@@ -222,7 +222,7 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
         * //调用此方法产生摄像机9参数位置矩阵
          */
         Matrix.setLookAtM(mVMatrix, 0,
-                0, 0, 10.0f, //相机的x,y,z坐标
+                0, 0, 5.0f, //相机的x,y,z坐标
                 0f, 0f, 5.0f, //目标对应的x,y,z坐标
                 0f, -1.0f, 0.0f//相机的视觉向量(upx,upy,upz,三个向量最终的合成向量的方向为相机的方向)
         );
