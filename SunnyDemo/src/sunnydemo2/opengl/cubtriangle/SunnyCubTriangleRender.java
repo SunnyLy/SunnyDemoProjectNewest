@@ -4,7 +4,6 @@ import android.content.Context;
 import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
 import android.opengl.Matrix;
-import android.os.SystemClock;
 import android.util.Log;
 
 import java.nio.ByteBuffer;
@@ -13,6 +12,8 @@ import java.nio.FloatBuffer;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
+
+import sunnydemo2.utils.LogUtils;
 
 /**
  * @Author sunny
@@ -40,6 +41,7 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
 
     public int mAngleX;
     public int mAngleY;
+    public int angle;
 
     private Context mContext;
 
@@ -58,18 +60,19 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
             0.0f,  1.11803399f, 0, 0.5f,  1.61803399f,
 
     };*/
-    int one = 0x10000;
+    //int one = 0x10000;
+            float one = 1.0f;
     //以立方体的中心为世界坐标系的原点
     private final float[] mTriangleVerticesData = {
             //X,Y,Z
-            -one, -one, -one,
-            one, -one, -one,
-            one,  one, -one,
-            -one,  one, -one,
-            -one, -one,  one,
-            one, -one,  one,
-            one,  one,  one,
-            -one,  one,  one,
+            -one, -0, one,//0
+            one, 0, one,//1
+            one,  one, one,//2
+            -one,  one, one,//3
+            -one, 0,  0,//4
+            one, 0,  0,//5
+            one,  one,  0,//6
+            -one,  one,  0,//7
 
     };
 
@@ -152,6 +155,7 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
 
     @Override
     public void onSurfaceCreated(GL10 gl, EGLConfig config) {
+        LogUtils.e("=========onSurfaceCreated==========");
 
         //GL10中有4个内置的矩阵：GL_MODELVIEW,GL_PROJECTION,GL_TEXTURE,GL_COLOR
         //而在OpenGL v3.0+、OpenGL ES v2.0+与WebGL v1.0+等可编程的管线中，不能使用上述内置矩阵函数，
@@ -159,7 +163,7 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
         //因为GLES20不能再像ApiDemo中那样使用gl.glMatrixMode(GL_MODELVIEW)内置矩阵函数。
 
         // GLES20.glClear( GLES20.GL_DEPTH_BUFFER_BIT | GLES20.GL_COLOR_BUFFER_BIT);
-        GLES20.glClearColor(1.0f, 1.0f, 1.0f, 1.0f);
+        GLES20.glClearColor(0.5f, 0.5f, 0.5f, 1.0f);
         //启用剔除
         GLES20.glEnable(GLES20.GL_CULL_FACE);
         //开启深度测试
@@ -182,49 +186,17 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
             throw new RuntimeException("Could not get attrib location for uMVPMatrix");
         }
 
-        /*//创建纹理
-        int[] texture = new int[1];
-        GLES20.glGenTextures(1,texture,0);
-        mTextureID = texture[0];
-        GLES20.glBindTexture(GLES20.GL_TEXTURE_2D,mTextureID);
-        //接下来纹理取样
-        GLES20.glTexParameterf(GLES20.GL_TEXTURE_2D,GLES20.GL_TEXTURE_MIN_FILTER,GLES20.GL_NEAREST);
-        GLES20.glTexParameterf(GLES20.GL_TEXTURE_2D,GLES20.GL_TEXTURE_MAG_FILTER,GLES20.GL_LINEAR);
-        GLES20.glTexParameteri(GLES20.GL_TEXTURE_2D, GLES20.GL_TEXTURE_WRAP_S,GLES20.GL_REPEAT);
-        GLES20.glTexParameteri(GLES20.GL_TEXTURE_2D, GLES20.GL_TEXTURE_WRAP_T,GLES20.GL_REPEAT);
-
-        InputStream is = mContext.getResources()
-                .openRawResource(R.raw.robot);
-        Bitmap bitmap;
-        try {
-            // bitmap = BitmapFactory.decodeStream(is);
-            bitmap = BitmapFactory.decodeResource(mContext.getResources(),R.drawable.p1);
-        } finally {
-            try {
-                is.close();
-            } catch(IOException e) {
-                // Ignore.
-            }
-        }
-
-        *//*
-        *让图片与纹理关联起来，加载到OpenGL中
-         *//*
-        GLUtils.texImage2D(GLES20.GL_TEXTURE_2D, 0, bitmap, 0);
-
-        *//*
-        *回收图片资源
-         *//*
-        bitmap.recycle();
-*/
         /*
         *设定相机的视角
         * //调用此方法产生摄像机9参数位置矩阵
          */
         Matrix.setLookAtM(mVMatrix, 0,
-                0, 0, 5.0f, //相机的x,y,z坐标
-                0f, 0f, 5.0f, //目标对应的x,y,z坐标
-                0f, -1.0f, 0.0f//相机的视觉向量(upx,upy,upz,三个向量最终的合成向量的方向为相机的方向)
+                0, 0, -5.0f, //相机的x,y,z坐标
+                0f, 0f, 0f, //目标对应的x,y,z坐标
+                0f, 1.0f, 0.0f//相机的视觉向量(upx,upy,upz,三个向量最终的合成向量的方向为相机的方向)
+               /* -8f,1f,0,
+                0f,0f,0f,
+                0f,1.0f,1.0f*/
         );
 
     }
@@ -303,7 +275,7 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
 
     @Override
     public void onSurfaceChanged(GL10 gl, int width, int height) {
-
+        LogUtils.e("=========onSurfaceChanged==========");
         GLES20.glViewport(0, 0, width, height);
         float ratio = (float) width / height;
         final float left = -ratio;
@@ -311,13 +283,14 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
         final float bottom = -1.0f;
         final float top = 1.0f;
         final float near = 1.0f;
-        final float far = 7.0f;
+        final float far = 10.0f;
         //调用此方法计算产生透视投影矩阵
         Matrix.frustumM(mProjMatrix, 0, left, right, bottom, top, near, far);
     }
 
     @Override
     public void onDrawFrame(GL10 gl) {
+        LogUtils.e("=========onDrawFrame==========");
         //glClear:清除缓冲区标志，这里为：清除颜色缓冲及深度缓冲，把整个窗口清除为蓝色背景
        /* GLES20.glClear( GLES20.GL_DEPTH_BUFFER_BIT | GLES20.GL_COLOR_BUFFER_BIT);
         //渲染蓝色背景，单独使用glClearColor并不会使窗口变色，要配合使用glClear清除缓冲标志
@@ -326,12 +299,7 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
         //使用着色器脚本程序
         GLES20.glUseProgram(mProgram);
 
-        long time = SystemClock.uptimeMillis() % 1000L;
-        float angle = (360.0f / 10000.0f)* ((int) time);
-        Matrix.setIdentityM(mMMatrix, 0);
-        Matrix.translateM(mMMatrix, 0, 0.0f, 0.0f, -5.0f);
-        Matrix.rotateM(mMMatrix, 0, mAngleX, 1.0f, 1.0f, 0.0f);
-        Matrix.rotateM(mMMatrix, 0, mAngleY, 1.0f, 0, 0);
+
 
         /*//OpenGL是用来对图片(Bitmap)进行滤镜渲染的，
         //当然不会直接操作Bitmap,而是间接通过GLSurfaceView来进行渲染的
@@ -355,6 +323,14 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
         //使用着色器的aTextureCoorde的值
         GLES20.glEnableVertexAttribArray(maColorHandle);
 
+       /* long time = SystemClock.uptimeMillis() % 1000L;
+        float angle = (360.0f / 10000.0f)* ((int) time);*/
+        Matrix.setIdentityM(mMMatrix, 0);
+        Matrix.translateM(mMMatrix, 0, 0.0f, 0.0f, -3.0f);
+        Matrix.rotateM(mMMatrix, 0, angle, 0.0f, 1.0f, 0.0f);
+        Matrix.rotateM(mMMatrix, 0, angle*0.25f, 1.0f, 0.0f, 0);
+        angle += 1.2f;
+
         /**
          * 可通过变换矩阵相乘得出想要变换矩阵
          */
@@ -368,7 +344,7 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
 
         //最后开始画三角形，绘制的方式有三种：点，线，面
         //这里以面的方式来画
-       // GLES20.glDrawArrays(GLES20.GL_TRIANGLES, 0, 36);
+        //GLES20.glDrawArrays(GLES20.GL_TRIANGLES, 0, 36);
         GLES20.glDrawElements(GLES20.GL_TRIANGLES,36,GLES20.GL_UNSIGNED_BYTE,mIndexBuffer);
     }
 }

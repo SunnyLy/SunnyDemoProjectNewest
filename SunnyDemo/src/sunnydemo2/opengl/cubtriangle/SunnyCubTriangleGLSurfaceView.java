@@ -22,7 +22,7 @@ public class SunnyCubTriangleGLSurfaceView extends GLSurfaceView {
         mCubTriangleRender = new SunnyCubTriangleRender(context);
         setEGLContextClientVersion(2);
         setRenderer(mCubTriangleRender);
-        setRenderMode(GLSurfaceView.RENDERMODE_WHEN_DIRTY);
+        setRenderMode(GLSurfaceView.RENDERMODE_CONTINUOUSLY);
     }
 
     @Override
