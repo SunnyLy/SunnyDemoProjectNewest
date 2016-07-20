@@ -65,6 +65,9 @@ public class AffdexFaceDector extends FragmentActivity implements CameraDetector
         mCameraDetector.setOnCameraEventListener(this);
         mCameraDetector.setSendUnprocessedFrames(true);//不跳过未处理的帧
 
+        /**
+         * 推荐的最小的高质量检测频率为：5
+         */
         mCameraDetector.setMaxProcessRate(5);
 
         mCameraDetector.setDetectSmile(true);
@@ -72,6 +75,8 @@ public class AffdexFaceDector extends FragmentActivity implements CameraDetector
         mCameraDetector.setDetectAllEmojis(true);
         mCameraDetector.setDetectAllExpressions(true);
         mCameraDetector.setDetectAttention(true);
+        mCameraDetector.setDetectGender(true);
+        mCameraDetector.setDetectGlasses(true);
        /* mCameraDetector.setDetectJoy(true);
         mCameraDetector.setDetectSadness(true);
         mCameraDetector.setDetectSmirk(true);
@@ -225,9 +230,9 @@ public class AffdexFaceDector extends FragmentActivity implements CameraDetector
             StringBuffer stringBuffer = new StringBuffer();
             stringBuffer.append("结果:\n");
             for (int i = 0; i < faces.size(); i++) {
-                Face face = faces.get(i);
-                LogUtils.e("expressions:"+face.expressions.getMouthOpen());
+                Face face = faces.get(0);
                 int faceId = face.getId();
+                stringBuffer.append("faceId:"+faceId+"       ");
 
                 /*
                 =====================
@@ -236,6 +241,20 @@ public class AffdexFaceDector extends FragmentActivity implements CameraDetector
                  */
                 Face.GENDER genderValue = face.appearance.getGender();
                 Face.GLASSES glassesValue = face.appearance.getGlasses();
+                if(genderValue == Face.GENDER.FEMALE){
+                    stringBuffer.append("性别:女");
+                }else if(genderValue == Face.GENDER.MALE){
+                    stringBuffer.append("性别:男");
+                }else {
+                    stringBuffer.append("性别:--");
+                }
+
+                if(glassesValue == Face.GLASSES.YES){
+                    stringBuffer.append("    是否戴眼镜:是");
+                }else if(glassesValue == Face.GLASSES.NO){
+                    stringBuffer.append("    是否戴眼镜:否");
+                }
+
 
                 /*
                 ======================
@@ -259,7 +278,7 @@ public class AffdexFaceDector extends FragmentActivity implements CameraDetector
                 //伸舌头，眨眼睛
                 float tongue_wingEye = face.emojis.getStuckOutTongueWinkingEye();
 
-                stringBuffer.append("表情:===============\n");
+                stringBuffer.append("\n表情:===============\n");
                 stringBuffer.append(String.format("微笑的:%.2f",smiley)+"       ");
                 stringBuffer.append(String.format("大笑的:%.2f",laughing)+"       ");
                 stringBuffer.append(String.format("眨眼:%.2f",wink)+"\n");
@@ -313,14 +332,15 @@ public class AffdexFaceDector extends FragmentActivity implements CameraDetector
                 //nose 鼻子
                 float nose = face.expressions.getNoseWrinkle();
                 float attention = face.expressions.getAttention();
-                stringBuffer.append("面部表现:===============\n");
+                stringBuffer.append("面部特征:===============\n");
                 stringBuffer.append(String.format("嘴角向下:%.2f",lipCornerDepressor));
                 stringBuffer.append(String.format(",,闭目:%.2f",eyeClosure));
                 stringBuffer.append(String.format(",,傻笑:%.2f",smirk));
                 stringBuffer.append(String.format(",,微笑:%.2f",smile));
                 stringBuffer.append(String.format(",,眉毛向上:%.2f",brow_raise));
                 stringBuffer.append(String.format(",,张嘴:%.2f",mouthOpen));
-                stringBuffer.append(String.format(",,鼻子:%.2f",nose));
+                stringBuffer.append(String.format(",,双唇紧闭:%.2f",lipPress));
+                stringBuffer.append(String.format(",,皱鼻子:%.2f",nose));
 
 
                 /*

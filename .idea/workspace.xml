@@ -10,207 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa71319e-7bf0-4ec3-acbe-41a4e79fd8d9" name="Default" comment=",,,,,,,,,,,,,,,">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunnyDemo/assets/Affdex/affdex.license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_affdex_facedector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/facedecotor/AffdexFaceDector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/facedecotor/FaceDecotorSurfaceView.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/EventBus_2_4_1_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/FrescoSupport_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/ST4_4_0_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/ShareSDK_1_2_12_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/adapter_rxjava_2_0_0_beta2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/adapters_1_0_rc5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/andrnoid_support_v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v7_appcompat.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v7_palette.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v7_recyclerview.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/antlr4_4_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/antlr4_annotations_4_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/antlr4_runtime_4_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/antlr_runtime_3_5_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/baseLibrary_2_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/bolts_android_1_1_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/commons_io_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/compilerCommon_2_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/compiler_2_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/converter_gson_2_0_0_beta2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/crashlytics_2_5_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/drawee_0_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/fabric_.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/fbcore_0_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/fresco_0_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/glide_3_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/guava_17_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/imagepipeline_0_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/juniversalchardet_1_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/kotlin_runtime_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library_1_0_rc5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library_2_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_1_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_instrumentation_1_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/okhttp_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/okio_1_6_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/opendanmaku_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_abego_treelayout_core_1_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_http_legacy_android_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/picasso_2_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/retrofit_2_0_0_beta2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxandroid_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxjava_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/universal_image_loader_1_8_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/xUitls_2_6_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/xUtils_2_6_14.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SunnyDemo/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/SunnyDemo.iml" afterPath="$PROJECT_DIR$/SunnyDemo/SunnyDemo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/build.gradle" afterPath="$PROJECT_DIR$/SunnyDemo/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/acitivity_main.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/acitivity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_ad.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_ad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_bar_graph.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_bar_graph.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_compass_view.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_compass_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_curvechart.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_curvechart.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_data_binding.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_data_binding.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_divistion_circle.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_divistion_circle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_divistion_circle2.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_divistion_circle2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_grab_redpacket_main.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_grab_redpacket_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_open_gl.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_open_gl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_sunny_pulltofresh.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_sunny_pulltofresh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_vertical_viewpager.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/activity_vertical_viewpager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/number_picker_with_selector_wheel.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/number_picker_with_selector_wheel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/layout/widget_pull_to_fresh.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/layout/widget_pull_to_fresh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/values/strings.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/res/xml/main.xml" afterPath="$PROJECT_DIR$/SunnyDemo/res/xml/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/wxapi/WXEntryActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/wxapi/WXEntryActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-app-appcompat-v7/android-app-appcompat-v7.iml" afterPath="$PROJECT_DIR$/android-app-appcompat-v7/android-app-appcompat-v7.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/AppApplication.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/AppApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/StartActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/StartActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ComprassViewActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ComprassViewActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/MainActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/TextLinkifyActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/TextLinkifyActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/adapter/ADViewPagerAdapter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/adapter/ADViewPagerAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/CarouselADActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/CarouselADActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/activitystartmode/ActivityA.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/activitystartmode/ActivityA.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/activitystartmode/ActivityB.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/activitystartmode/ActivityB.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/activitystartmode/ActivityC.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/activitystartmode/ActivityC.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/activitystartmode/ActivityD.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/activitystartmode/ActivityD.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/activitystartmode/ActivityE.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/activitystartmode/ActivityE.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/activitystartmode/ActivityStartMode.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/activitystartmode/ActivityStartMode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/ble/SunnyBLEActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/ble/SunnyBLEActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/newproperties/NewPropertiesActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/newproperties/NewPropertiesActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/newproperties/PullToRefreshLayout.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/newproperties/PullToRefreshLayout.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/view/DirectionalViewPager.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/view/DirectionalViewPager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/view/TestFragment.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/view/TestFragment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/ui/view/VerticalViewPagerActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/ui/view/VerticalViewPagerActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/ad/widget/ViewPagerIndicator.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/ad/widget/ViewPagerIndicator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/AndroidLActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/AndroidLActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/CardViewActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/CardViewActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/ItemDiliver.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/ItemDiliver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/PaletteActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/PaletteActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/RippleDrawableActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/RippleDrawableActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/SpacesItemDecoration.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/SpacesItemDecoration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/TestPrefeerenceActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/TestPrefeerenceActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/TintActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/TintActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/ToolbarActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/ToolbarActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/adapter/MasonryAdapter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/adapter/MasonryAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/adapter/SunnyRecyclerViewAdapter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/adapter/SunnyRecyclerViewAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/callback/RecycleItemClickListener.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/callback/RecycleItemClickListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/androidl/model/Product.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/androidl/model/Product.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/BarGraphActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/BarGraphActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/CurveChartActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/CurveChartActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/DivisionCircle2Activity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/DivisionCircle2Activity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/DivisionCircleActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/DivisionCircleActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/view/BarGraphView.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/view/BarGraphView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/view/CurveChartView.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/view/CurveChartView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/view/DivisionCircle.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/view/DivisionCircle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/view/DivisionCircle2.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/view/DivisionCircle2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/bargraph/view/SunnyVerticalViewPager.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/bargraph/view/SunnyVerticalViewPager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/base/BaseActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/base/BaseActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/danmuku/DanmuKuActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/danmuku/DanmuKuActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/databinding/DataBindingActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/databinding/DataBindingActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/databinding/TestUser.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/databinding/TestUser.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/ChoosePictureActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/ChoosePictureActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/FrescoActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/FrescoActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/GlideActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/GlideActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/ImageLoaderActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/ImageLoaderActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/PictureLoaderFrameActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/PictureLoaderFrameActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/SunnyImageLoaderActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/SunnyImageLoaderActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/adapter/FolderAdapter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/adapter/FolderAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/adapter/GridviewAdapter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/adapter/GridviewAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/adapter/ImageGridAdapter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/adapter/ImageGridAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/model/Folder.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/model/Folder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imageloader/model/LocalImage.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imageloader/model/LocalImage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/imagetext/ImageTextActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/imagetext/ImageTextActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/mvp/base/ActivityPresenter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/mvp/base/ActivityPresenter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/mvp/base/BaseActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/mvp/base/BaseActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/mvp/model/UserModel.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/mvp/model/UserModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/mvp/presenter/LoginAtyPresenter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/mvp/presenter/LoginAtyPresenter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/mvp/view/AbsView.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/mvp/view/AbsView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/mvp/view/IView.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/mvp/view/IView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/mvp/view/LoginView.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/mvp/view/LoginView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/network/OkHttpNetWorkActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/network/OkHttpNetWorkActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/network/RequestThread.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/network/RequestThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/network/SunnyHandler.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/network/SunnyHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/network/XutilsNetWorkActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/network/XutilsNetWorkActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/network/biz/ICallback.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/network/biz/ICallback.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/network/manager/OkHttpUtils.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/network/manager/OkHttpUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/GLES20TriangleRenderer.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/opengl/GLES20TriangleRenderer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/SunnyGLRender.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/opengl/SunnyGLRender.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/SunnyGLSurfaceView.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/opengl/SunnyGLSurfaceView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/SunnyOpenGLActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/opengl/SunnyOpenGLActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/cubtriangle/SunnyCubTriangle.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/opengl/cubtriangle/SunnyCubTriangle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleGLSurfaceView.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleGLSurfaceView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleRender.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/opengl/cubtriangle/SunnyCubTriangleRender.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/AccessbilityJob.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/AccessbilityJob.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/AccessibilityHelper.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/AccessibilityHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/BaseSettingsFragment.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/BaseSettingsFragment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/CustomSwitchPreference.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/CustomSwitchPreference.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/GrabRedpacketActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/GrabRedpacketActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/GrabRedpacketBaseActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/GrabRedpacketBaseActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/GrabRedpacketBaseSettingActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/GrabRedpacketBaseSettingActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/GrabRedpacketConfig.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/GrabRedpacketConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/GrabRedpacketNotificationService.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/GrabRedpacketNotificationService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/GrabRedpacketService.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/GrabRedpacketService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/IStatusbarNotification.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/IStatusbarNotification.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/NotifyHelper.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/NotifyHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/plugin/WechatAccessbilityJob.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/plugin/WechatAccessbilityJob.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/pulltofresh/EatProgressBar.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/pulltofresh/EatProgressBar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/pulltofresh/SunnyPullToFreshActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/pulltofresh/SunnyPullToFreshActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/pulltofresh/SunnyPullToFreshLayout.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/pulltofresh/SunnyPullToFreshLayout.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/rxjava/RxJavaActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/rxjava/RxJavaActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/rxjava/adapter/SunnyAdapter.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/rxjava/adapter/SunnyAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/rxjava/api/GitHubApi.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/rxjava/api/GitHubApi.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/rxjava/biz/GitHubService.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/rxjava/biz/GitHubService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/rxjava/event/BaseEvent.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/rxjava/event/BaseEvent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/rxjava/event/DingCanEvent.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/rxjava/event/DingCanEvent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/service/ServiceActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/service/ServiceActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/service/SunnyService.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/service/SunnyService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/sharesdk/BaseDialogFragment.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/sharesdk/BaseDialogFragment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/sharesdk/ShareDialog.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/sharesdk/ShareDialog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/sharesdk/SunnyShareActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/sharesdk/SunnyShareActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/tts/RecognizerIntentActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/tts/RecognizerIntentActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/tts/TTSActivity.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/tts/TTSActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/utils/LogUtils.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/utils/LogUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/utils/MD5.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/utils/MD5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/utils/SecurityUtils.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/utils/SecurityUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/widget/CanvasTest.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/widget/CanvasTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/widget/CommonLoadingDialog.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/widget/CommonLoadingDialog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/widget/CompassView.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/widget/CompassView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/widget/NumberPicker.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/widget/NumberPicker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SunnyDemo/src/sunnydemo2/widget/Scroller.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/widget/Scroller.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/facedecotor/AffdexFaceDector.java" afterPath="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/facedecotor/AffdexFaceDector.java" />
     </list>
     <ignored path="SunnyDemoProjectNewest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -243,11 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SunnyDemo/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.81135905">
+              <caret line="20" column="32" selection-start-line="5" selection-start-column="8" selection-end-line="20" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -257,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/StartActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="157" column="59" selection-start-line="157" selection-start-column="59" selection-end-line="157" selection-end-column="59" />
+              <caret line="91" column="15" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -267,20 +72,10 @@
         <entry file="file://$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/facedecotor/AffdexFaceDector.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CameraDetector.class" pinned="false" current-in-tab="true">
-        <entry file="jar://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.affectiva.android/affdexsdk/3.0.1/jars/classes.jar!/com/affectiva/android/affdex/sdk/detector/CameraDetector.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64375">
-              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -2904,13 +2699,13 @@
         <option value="$PROJECT_DIR$/SunnyDemo/res/layout/activity_data_binding.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/databinding/DataBindingActivity.java" />
-        <option value="$PROJECT_DIR$/SunnyDemo/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/StartActivity.java" />
         <option value="$PROJECT_DIR$/SunnyDemo/build.gradle" />
         <option value="$PROJECT_DIR$/SunnyDemo/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/facedecotor/FaceDecotorSurfaceView.java" />
         <option value="$PROJECT_DIR$/SunnyDemo/res/layout/activity_affdex_facedector.xml" />
         <option value="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/facedecotor/AffdexFaceDector.java" />
+        <option value="$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/StartActivity.java" />
+        <option value="$PROJECT_DIR$/SunnyDemo/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -3039,7 +2834,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3057,11 +2852,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Affdex" />
+              <option name="myItemId" value="outputs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SunnyDemoProjectNewest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SunnyDemoProjectNewest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SunnyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outputs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3101,7 +2922,7 @@
     <property name="android.sdk.path" value="D:/eclipse/all_adt-bundle-windows-x86_64-20140321/adt-bundle-windows-x86_64-20140321/sdk" />
     <property name="android.project.structure.last.selected" value="Project" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="device.picker.selection" value="TA09005RRA" />
+    <property name="device.picker.selection" value="LGD72887e2c2e1" />
     <property name="DEBUGGABLE_DEVICE" value="lge-lg_d728-LGD72887e2c2e1" />
     <property name="DEBUGGABLE_PROCESS" value="com.smartbracelet.sunny.sunnydemo2" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
@@ -3447,10 +3268,10 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4013378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35451505" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33110368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43589744" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -3795,14 +3616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SunnyDemo/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SunnyDemo/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3839,25 +3652,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/StartActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="157" column="59" selection-start-line="157" selection-start-column="59" selection-end-line="157" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/eclipse/all_adt-bundle-windows-x86_64-20140321/adt-bundle-windows-x86_64-20140321/sdk/sources/android-23/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="815" column="16" selection-start-line="815" selection-start-column="16" selection-end-line="815" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.affectiva.android/affdexsdk/3.0.1/jars/classes.jar!/com/affectiva/android/affdex/sdk/detector/Face.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.035714">
-          <caret line="302" column="21" selection-start-line="302" selection-start-column="21" selection-end-line="302" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -3882,20 +3680,44 @@
         <state />
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.affectiva.android/affdexsdk/3.0.1/jars/classes.jar!/com/affectiva/android/affdex/sdk/detector/CameraDetector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.464286">
+          <caret line="58" column="54" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.affectiva.android/affdexsdk/3.0.1/jars/classes.jar!/com/affectiva/android/affdex/sdk/detector/Face.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.035714">
+          <caret line="339" column="23" selection-start-line="339" selection-start-column="23" selection-end-line="339" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/facedecotor/AffdexFaceDector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/SunnyDemo/build/intermediates/exploded-aar/com.affectiva.android/affdexsdk/3.0.1/jars/classes.jar!/com/affectiva/android/affdex/sdk/detector/CameraDetector.class">
+    <entry file="file://$PROJECT_DIR$/SunnyDemo/src/com/smartbracelet/sunny/sunnydemo2/StartActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64375">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="15" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SunnyDemo/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81135905">
+          <caret line="20" column="32" selection-start-line="5" selection-start-column="8" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>
