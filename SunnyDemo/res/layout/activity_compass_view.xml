@@ -5,13 +5,13 @@
     android:background="@android:color/white"
     android:orientation="vertical">
 
-    <sunnydemo2.widget.CompassView
+    <com.smartbracelet.sunny.sunnydemo2.widget.CompassView
         android:id="@+id/compass_view"
         android:layout_width="match_parent"
         android:layout_height="300dp"
         android:visibility="visible"/>
 
-    <sunnydemo2.widget.CanvasTest
+    <com.smartbracelet.sunny.sunnydemo2.widget.CanvasTest
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 

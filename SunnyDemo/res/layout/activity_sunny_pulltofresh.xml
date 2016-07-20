@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <sunnydemo2.pulltofresh.SunnyPullToFreshLayout
+    <com.smartbracelet.sunny.sunnydemo2.pulltofresh.SunnyPullToFreshLayout
         android:id="@+id/pull_to_refresh_head"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -27,6 +27,6 @@
                     android:text="下拉刷新试试"/>
             </LinearLayout>
         </ScrollView>
-        </sunnydemo2.pulltofresh.SunnyPullToFreshLayout>
+        </com.smartbracelet.sunny.sunnydemo2.pulltofresh.SunnyPullToFreshLayout>
 
 </LinearLayout>

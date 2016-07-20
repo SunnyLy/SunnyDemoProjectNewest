@@ -3,7 +3,7 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
               android:orientation="vertical"
-              tools:context="sunnydemo2.plugin.GrabRedpacketActivity">
+              tools:context=".plugin.GrabRedpacketActivity">
 
     <FrameLayout
         android:id="@+id/container"

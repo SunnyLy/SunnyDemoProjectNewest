@@ -11,7 +11,7 @@ import com.tencent.mm.sdk.openapi.IWXAPI;
 import com.tencent.mm.sdk.openapi.IWXAPIEventHandler;
 import com.tencent.mm.sdk.openapi.WXAPIFactory;
 
-import sunnydemo2.sharesdk.SunnyShareActivity;
+import com.smartbracelet.sunny.sunnydemo2.sharesdk.SunnyShareActivity;
 
 /**
  * Created by sunny on 2016/1/19.

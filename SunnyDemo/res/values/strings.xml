@@ -19,6 +19,7 @@
         <item>抢红包插件</item>
         <item>OpenGL</item>
         <item>PopupWindow</item>
+        <item>Affdex面部识别SDK</item>
     </string-array>
 
     <string-array name="new_properties">

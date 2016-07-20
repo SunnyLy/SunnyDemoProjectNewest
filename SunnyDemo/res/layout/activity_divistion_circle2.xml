@@ -5,7 +5,7 @@
     android:gravity="center_vertical"
     android:orientation="vertical">
 
-    <sunnydemo2.bargraph.view.DivisionCircle2
+    <com.smartbracelet.sunny.sunnydemo2.bargraph.view.DivisionCircle2
         android:id="@+id/divsion_circle2"
         android:layout_width="match_parent"
         android:layout_height="300dp"

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="crashlytics-2.5.5">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/crashlytics-2.5.5.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

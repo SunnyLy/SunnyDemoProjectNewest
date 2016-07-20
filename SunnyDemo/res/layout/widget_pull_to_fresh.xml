@@ -13,7 +13,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content" >
-            <sunnydemo2.pulltofresh.EatProgressBar
+            <com.smartbracelet.sunny.sunnydemo2.pulltofresh.EatProgressBar
                 android:id="@+id/progress"
                 android:layout_width="50dp"
                 android:layout_height="50dp"

@@ -5,7 +5,7 @@
     android:background="@android:color/white"
     android:orientation="vertical">
 
-  <sunnydemo2.ad.ui.view.DirectionalViewPager
+  <com.smartbracelet.sunny.sunnydemo2.ad.ui.view.DirectionalViewPager
       android:id="@+id/viewPager"
       android:layout_width="match_parent"
       android:layout_height="match_parent"

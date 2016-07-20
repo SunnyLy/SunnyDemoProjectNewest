@@ -11,7 +11,7 @@
         android:layout_height="match_parent"/>
 
 
-    <sunnydemo2.ad.widget.ViewPagerIndicator
+    <com.smartbracelet.sunny.sunnydemo2.ad.widget.ViewPagerIndicator
         android:id="@+id/common_indicator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -13,13 +13,19 @@ apply plugin: 'com.android.application'
 //apply plugin: 'me.tatarka.retrolambda'
 apply plugin: 'io.fabric'
 
+//fabric仓库
 repositories {
     maven { url 'https://maven.fabric.io/public' }
+//Affdex Sdk
+    maven{
+        url "http://maven.affectiva.com"
+    }
 
     flatDir {
         dirs 'libs'
     }
 }
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
@@ -30,7 +36,7 @@ android {
 
     defaultConfig {
         applicationId "com.smartbracelet.sunny.sunnydemo2"
-        minSdkVersion 14
+        minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
@@ -39,7 +45,7 @@ android {
 
     signingConfigs {
         HetConfig {
-            storeFile file("sunnydemo2.jks")
+            storeFile file("com.smartbracelet.sunny.sunnydemo2.sunnydemo2.jks")
             storePassword "555555"
             keyAlias "sunny"
             keyPassword "555555"
@@ -64,38 +70,21 @@ android {
             res.srcDirs('res')
             java.srcDirs('src')
             jniLibs.srcDirs = ['libs']
-            assets.srcDirs = ['asserts']
+            assets.srcDirs = ['assets']
         }
     }
 
-    lintOptions{
+    lintOptions {
         checkReleaseBuilds false
         abortOnError false
     }
 
-    /*  compileOptions {
-          sourceCompatibility JavaVersion.VERSION_1_8
-          targetCompatibility JavaVersion.VERSION_1_8
-      }*/
-
-    /* allprojects{
-         repositories{
-             maven{
-
-                 credentials{
-                     username    'admin'
-                     password    'admin123'
-                 }
-                 url 'http://192.168.3.5:8081/nexus/content/groups/public/'
-             }
-         }
-     }*/
-
+    dataBinding {
+        enabled = true
+    }
 
     useLibrary 'org.apache.http.legacy'
 }
-
-
 
 /*repositories {
     flatDir {
@@ -121,11 +110,11 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.4.0'
     compile 'com.android.common:FrescoSupport:1.0.0'
     provided files('../android-app-appcompat-v7/libs/android-support-v4.jar')
-        provided files('../android-app-appcompat-v7/libs/android-support-v7-appcompat.jar')
-     provided files('../android-app-appcompat-v7/libs/android-support-v7-palette.jar')
+    provided files('../android-app-appcompat-v7/libs/android-support-v7-appcompat.jar')
+    provided files('../android-app-appcompat-v7/libs/android-support-v7-palette.jar')
     compile 'com.android.support:recyclerview-v7:23.1.1'
     compile 'com.android.support:cardview-v7:23.1.1'
-   // compile 'com.android.support:palette-v7:23.1.1'
+    // compile 'com.android.support:palette-v7:23.1.1'
     compile 'io.reactivex:rxjava:1.1.0'
     compile 'io.reactivex:rxandroid:1.1.0'
     compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
@@ -137,7 +126,7 @@ dependencies {
     //Android弹幕控件
     compile 'com.linsea:opendanmaku:1.0.0@aar'
     //Data Binding
-    //classpasth 'com.android.databinding:dataBinder:1.3.0-beta1'
+    //compile 'com.android.databinding:dataBinder:1.0-rc2'
     compile 'com.android.common:ShareSDK:1.2.12-SNAPSHOT'
     //fabric：crashlytics
     /* compile('com.crashlytics.sdk.android:crashlytics:2.5.5@aar') {
@@ -146,4 +135,7 @@ dependencies {
     compile files('../libs/crashlytics-2.5.5.jar')
     compile(name: 'fabric', ext: 'aar')
     //compile files('libs/android-support-v7-appcompat.jar')
+
+    //Affdex 面部识别
+    compile 'com.affectiva.android:affdexsdk:3.0.1'
 }

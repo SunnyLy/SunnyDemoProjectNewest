@@ -6,7 +6,7 @@
     android:gravity="center_vertical"
     android:orientation="vertical">
 
-    <sunnydemo2.bargraph.view.BarGraphView
+    <com.smartbracelet.sunny.sunnydemo2.bargraph.view.BarGraphView
         android:id="@+id/graph_view"
         android:layout_width="match_parent"
         android:layout_height="300dp"
