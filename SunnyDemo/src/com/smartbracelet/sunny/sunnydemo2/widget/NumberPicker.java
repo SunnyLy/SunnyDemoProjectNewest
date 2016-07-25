@@ -16,12 +16,6 @@
 
 package com.smartbracelet.sunny.sunnydemo2.widget;
 
-import java.text.DecimalFormatSymbols;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Locale;
-
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -62,6 +56,12 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.smartbracelet.sunny.sunnydemo2.R;
+
+import java.text.DecimalFormatSymbols;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Locale;
 
 //import android.annotation.Widget;
 
@@ -928,8 +928,8 @@ public class NumberPicker extends LinearLayout {
                 } else {
                     int eventY = (int) event.getY();
                     int deltaMoveY = (int) Math.abs(eventY - mLastDownEventY);
-                    long deltaTime = event.getEventTime() - mLastDownEventTime;
-                    long tapTimeout = ViewConfiguration.getTapTimeout();
+                   /* long deltaTime = event.getEventTime() - mLastDownEventTime;
+                    long tapTimeout = ViewConfiguration.getTapTimeout();*/
                     if (deltaMoveY <= mTouchSlop) { // && deltaTime < ViewConfiguration.getTapTimeout()) {
                         if (mShowSoftInputOnTap) {
                             mShowSoftInputOnTap = false;
@@ -1478,7 +1478,7 @@ public class NumberPicker extends LinearLayout {
             super.onDraw(canvas);
             return;
         }
-        float x = (getRight() - getLeft()) / 2;
+        float x = (getRight() - getLeft()) / (float)2;
         float y = mCurrentScrollOffset;
 
         // draw the virtual buttons pressed state if needed

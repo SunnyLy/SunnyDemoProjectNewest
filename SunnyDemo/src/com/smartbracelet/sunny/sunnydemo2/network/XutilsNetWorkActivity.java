@@ -59,8 +59,8 @@ public class XutilsNetWorkActivity extends Activity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-        String phone = mEditTextPhone.getText().toString().trim();
-        String pwd = mEditTextPassword.getText().toString().trim();
+       // String phone = mEditTextPhone.getText().toString().trim();
+        //String pwd = mEditTextPassword.getText().toString().trim();
 
 
       //  startLogin(phone, pwd);

@@ -82,8 +82,8 @@ public class CanvasTest extends View {
         "\nviewWidth:"+viewWidth+
         "\nviewHeight:"+viewHeight);
 
-        int px = measureWidth/2;
-        int py = measureHeight/2;
+       /* int px = measureWidth/2;
+        int py = measureHeight/2;*/
 
         //画布旋转
        /* canvas.drawText("测试rotate:",px,py,marketPaint);

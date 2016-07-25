@@ -160,8 +160,8 @@ public class DivisionCircle2 extends View {
         RectF scaleRectF = new RectF(100 + 80, 100 + 80, 220 + radius * 2, 220 + radius * 2);
        // canvas.drawArc(scaleRectF, 180, 180, false, mValuePaint);
         //弧长
-        int scaleLength = (int) ((180 * Math.PI * (((220 + radius * 2) - 180) / 2)) / 180);
-        int devided = scaleLength / mUnitScale;
+        double scaleLength = (int) ((180 * Math.PI * (((220 + radius * 2) - 180) / 2)) / (double) 180);
+        double devided = scaleLength / mUnitScale;
         Path path = new Path();
         path.addArc(scaleRectF, 180, 180);
         int startX = 0;

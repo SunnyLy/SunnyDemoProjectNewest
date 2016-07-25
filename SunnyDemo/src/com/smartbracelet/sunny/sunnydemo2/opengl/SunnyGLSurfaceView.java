@@ -50,7 +50,7 @@ public class SunnyGLSurfaceView extends GLSurfaceView {
                 float dy = y - mPreviousY;
 
                 //旋转中线上方方向
-                if(y > getHeight()/2){
+                if(y > getHeight()/(float)2){
                     dx = dx * -1;
                 }
 

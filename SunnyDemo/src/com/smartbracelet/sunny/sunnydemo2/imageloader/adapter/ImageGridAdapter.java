@@ -10,13 +10,11 @@ import android.widget.GridView;
 import android.widget.ImageView;
 
 import com.smartbracelet.sunny.sunnydemo2.R;
-
-import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
-
 import com.smartbracelet.sunny.sunnydemo2.imageloader.model.LocalImage;
 import com.smartbracelet.sunny.sunnydemo2.utils.LogUtils;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 图片Adapter
@@ -233,7 +231,6 @@ public class ImageGridAdapter extends BaseAdapter {
             }else{
                 indicator.setVisibility(View.GONE);
             }
-            File imageFile = new File(data.path);
             if(mImages.size() > 0) {
                 // 显示图片
                /* Picasso.with(mContext)

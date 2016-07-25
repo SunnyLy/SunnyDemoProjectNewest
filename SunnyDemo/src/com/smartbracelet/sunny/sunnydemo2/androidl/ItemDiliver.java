@@ -29,8 +29,6 @@ public class ItemDiliver extends RecyclerView.ItemDecoration {
     public void onDrawOver(Canvas c, RecyclerView parent, RecyclerView.State state) {
         int paddingLeft = parent.getPaddingLeft();
         int paddingRight = parent.getPaddingRight();
-        int paddingTop = parent.getPaddingTop();
-        int paddingBottom = parent.getPaddingBottom();
 
         int right = parent.getWidth() - paddingRight;
         int childCount = parent.getChildCount();

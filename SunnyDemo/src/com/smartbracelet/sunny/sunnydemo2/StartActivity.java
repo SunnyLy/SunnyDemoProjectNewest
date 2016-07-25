@@ -157,6 +157,9 @@ public class StartActivity extends Activity implements AdapterView.OnItemClickLi
                 //面部识别
                 AffdexFaceDector.startAffdexFaceDector(this);
                 break;
+
+            default:
+                break;
         }
 
     }

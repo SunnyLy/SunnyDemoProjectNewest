@@ -8,11 +8,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.smartbracelet.sunny.sunnydemo2.R;
-
-import java.util.List;
-
 import com.smartbracelet.sunny.sunnydemo2.androidl.callback.RecycleItemClickListener;
 import com.smartbracelet.sunny.sunnydemo2.androidl.model.Product;
+
+import java.util.List;
 
 /**
  * Created by sunny on 2016/1/12.
@@ -25,7 +24,15 @@ public class MasonryAdapter extends RecyclerView.Adapter<MasonryAdapter.MasonryV
 
     public MasonryAdapter(List<Product> list,RecycleItemClickListener clickListener) {
         products=list;
-        itemClickListener=clickListener;
+        setItemClickListener(clickListener);
+    }
+
+    private  void setItemClickListener(RecycleItemClickListener clickListener){
+        itemClickListener = clickListener;
+    }
+
+    public static RecycleItemClickListener getItemClickListener(){
+        return itemClickListener;
     }
 
     @Override
@@ -64,7 +71,7 @@ public class MasonryAdapter extends RecyclerView.Adapter<MasonryAdapter.MasonryV
 
         @Override
         public void onClick(View v) {
-            itemClickListener.onItemClick(v,this.getLayoutPosition());
+            getItemClickListener().onItemClick(v,this.getLayoutPosition());
         }
     }
 
