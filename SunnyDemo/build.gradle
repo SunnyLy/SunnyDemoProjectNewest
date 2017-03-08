@@ -1,21 +1,21 @@
 buildscript {
     repositories {
-        maven {
-            url 'https://maven.fabric.io/public'
-        }
+//        maven {
+////            url 'https://maven.fabric.io/public'
+//        }
     }
 
     dependencies {
-        classpath 'io.fabric.tools:gradle:1.+'
+//        classpath 'io.fabric.tools:gradle:1.+'
     }
 }
 apply plugin: 'com.android.application'
 //apply plugin: 'me.tatarka.retrolambda'
-apply plugin: 'io.fabric'
+//apply plugin: 'io.fabric'
 
 //fabric仓库
 repositories {
-    maven { url 'https://maven.fabric.io/public' }
+//    maven { url 'https://maven.fabric.io/public' }
 //Affdex Sdk
     maven{
         url "http://maven.affectiva.com"
@@ -104,14 +104,15 @@ dependencies {
     //compile 'com.squareup.okhttp:okhttp:2.6.0'
     provided files('../libs/xUitls-2.6.14.jar')
     /*  compile ('com.android.common:BaseProject:1.3.102-SNAPSHOT'){
-                             exclude group: 'com.android.common', module: 'ShareSDK'//排除间接依赖
-                         }*/
+                                 exclude group: 'com.android.common', module: 'ShareSDK'//排除间接依赖
+                             }*/
     compile 'com.android.support:multidex:1.0.0'
     compile 'com.squareup.picasso:picasso:2.4.0'
     compile 'com.android.common:FrescoSupport:1.0.0'
-    provided files('../android-app-appcompat-v7/libs/android-support-v4.jar')
-    provided files('../android-app-appcompat-v7/libs/android-support-v7-appcompat.jar')
-    provided files('../android-app-appcompat-v7/libs/android-support-v7-palette.jar')
+    compile 'com.android.support:appcompat-v7:23.1.0'
+    //    provided files('../android-app-appcompat-v7/libs/android-support-v4.jar')
+    //    provided files('../android-app-appcompat-v7/libs/android-support-v7-appcompat.jar')
+    //    provided files('../android-app-appcompat-v7/libs/android-support-v7-palette.jar')
     compile 'com.android.support:recyclerview-v7:23.1.1'
     compile 'com.android.support:cardview-v7:23.1.1'
     // compile 'com.android.support:palette-v7:23.1.1'
@@ -131,12 +132,12 @@ dependencies {
     compile 'com.android.common:ShareSDK:1.2.12-SNAPSHOT'
     //fabric：crashlytics
     /* compile('com.crashlytics.sdk.android:crashlytics:2.5.5@aar') {
-                        transitive = true;
-                    }*/
+                            transitive = true;
+                        }*/
     compile files('../libs/crashlytics-2.5.5.jar')
     compile(name: 'fabric', ext: 'aar')
     //compile files('libs/android-support-v7-appcompat.jar')
-
     //Affdex 面部识别
     compile 'com.affectiva.android:affdexsdk:3.0.1'
+    compile files('libs/android-support-v7-palette.jar')
 }

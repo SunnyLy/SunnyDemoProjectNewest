@@ -6,14 +6,14 @@ import android.opengl.GLSurfaceView;
 import android.opengl.Matrix;
 import android.util.Log;
 
+import com.smartbracelet.sunny.sunnydemo2.utils.LogUtils;
+
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
-
-import com.smartbracelet.sunny.sunnydemo2.utils.LogUtils;
 
 /**
  * @Author sunny
@@ -65,14 +65,14 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
     //以立方体的中心为世界坐标系的原点
     private final float[] mTriangleVerticesData = {
             //X,Y,Z
-            -one, -0, one,//0
-            one, 0, one,//1
+            -one, -one, one,//0
+            one, -one, one,//1
             one,  one, one,//2
             -one,  one, one,//3
-            -one, 0,  0,//4
-            one, 0,  0,//5
-            one,  one,  0,//6
-            -one,  one,  0,//7
+            -one, -one,  -one,//4
+            one, -one,  -one,//5
+            one,  one,  -one,//6
+            -one,  one,  -one,//7
 
     };
 
@@ -98,11 +98,11 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
     //以此类推
     byte indices[] = {
             0, 4, 5,    0, 5, 1,//
-            1, 5, 6,    1, 6, 2,
-            2, 6, 7,    2, 7, 3,
-            3, 7, 4,    3, 4, 0,
+            1, 2, 6,    1, 6, 5,
+            2, 3, 7,    2, 7, 6,
+            0, 3, 7,    0, 7, 4,
             4, 7, 6,    4, 6, 5,
-            3, 0, 1,    3, 1, 2
+            0, 3, 2,    0, 2, 1
     };
 
     private static final int FLOAT_SIZE_BYTES = 4;
@@ -187,16 +187,13 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
         }
 
         /*
-        *设定相机的视角
+        *设定相机的视角，即确定视点的位置
         * //调用此方法产生摄像机9参数位置矩阵
          */
         Matrix.setLookAtM(mVMatrix, 0,
-                0, 0, -5.0f, //相机的x,y,z坐标
-                0f, 0f, 0f, //目标对应的x,y,z坐标
-                0f, 1.0f, 0.0f//相机的视觉向量(upx,upy,upz,三个向量最终的合成向量的方向为相机的方向)
-               /* -8f,1f,0,
-                0f,0f,0f,
-                0f,1.0f,1.0f*/
+                0.0f, 0.0f, 0.0f, //摄像机的位置
+                0.0f, 0.0f, -1.0f, //摄像机镜头朝向的点的坐标，它与相机位置点的连线即为摄像机的方向
+                0.0f, 1.0f, 0.0f//可理解为相机最顶端朝向
         );
 
     }
@@ -278,14 +275,18 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
         LogUtils.e("=========onSurfaceChanged==========");
         GLES20.glViewport(0, 0, width, height);
         float ratio = (float) width / height;
+       // float ratio = 5.0f;
+        //left,right,bottom,top 组成了一个视平面，视点(眼睛)不能在视平面上
         final float left = -ratio;
         final float right = ratio;
         final float bottom = -1.0f;
         final float top = 1.0f;
         final float near = 1.0f;
-        final float far = 10.0f;
-        //调用此方法计算产生透视投影矩阵
+        final float far = 9.0f;
+        //调用此方法计算产生视点的透视投影矩阵
         Matrix.frustumM(mProjMatrix, 0, left, right, bottom, top, near, far);
+        //产生视点的正交投影矩阵
+        //Matrix.orthoM(mProjMatrix,0,left,right,bottom,top,near,far);
     }
 
     @Override
@@ -325,10 +326,17 @@ public class SunnyCubTriangleRender implements GLSurfaceView.Renderer {
 
        /* long time = SystemClock.uptimeMillis() % 1000L;
         float angle = (360.0f / 10000.0f)* ((int) time);*/
+        //设置模型矩阵为单位矩阵
+        //即：把模型矩阵压入变换矩阵栈底，相当于初始化
         Matrix.setIdentityM(mMMatrix, 0);
-        Matrix.translateM(mMMatrix, 0, 0.0f, 0.0f, -3.0f);
+        //相机在各轴上移动的距离及方向，最终会转换成模型在近平面上的位置
+        Matrix.translateM(mMMatrix, 0, 0.0f, 0.0f, -6.0f);
+        //绕Y轴旋转，投影到X-Z平面
         Matrix.rotateM(mMMatrix, 0, angle, 0.0f, 1.0f, 0.0f);
+        //绕X轴旋转，投影到Y-Z平面
         Matrix.rotateM(mMMatrix, 0, angle*0.25f, 1.0f, 0.0f, 0);
+        //绕Z轴旋转，相当于是绕原点旋转
+        Matrix.rotateM(mMMatrix,0,angle,0.0f,0.0f,1.0f);
         angle += 1.2f;
 
         /**

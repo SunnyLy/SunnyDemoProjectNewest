@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SunnyDemo/SunnyDemo.iml" filepath="$PROJECT_DIR$/SunnyDemo/SunnyDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SunnyDemoProjectNewest.iml" filepath="$PROJECT_DIR$/SunnyDemoProjectNewest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-app-appcompat-v7/android-app-appcompat-v7.iml" filepath="$PROJECT_DIR$/android-app-appcompat-v7/android-app-appcompat-v7.iml" />
     </modules>
   </component>
 </project>
